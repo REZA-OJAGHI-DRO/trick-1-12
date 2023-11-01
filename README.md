@@ -1,7 +1,7 @@
 # trick-1-12
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Screenshot (7)](https://github.com/REZA-OJAGHI-DRO/template-gym/assets/145910720/ba6c6e4e-289e-4f38-ac66-2440cd9f7ea6)
+![Screenshot (10)](https://github.com/REZA-OJAGHI-DRO/trick-1-12/assets/145910720/a7b8f6a7-f13d-4cfd-80c0-e85cec744699)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/trick-1-12/)
  
